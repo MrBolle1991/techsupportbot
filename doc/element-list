@@ -1,0 +1,6 @@
+com.example.techsupportbot
+com.example.techsupportbot.config
+com.example.techsupportbot.controller
+com.example.techsupportbot.model
+com.example.techsupportbot.repository
+com.example.techsupportbot.service
