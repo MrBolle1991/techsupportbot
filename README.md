@@ -6,8 +6,11 @@ TechSupportBot ist eine Spring Boot-basierte Webanwendung, die als Basis für ei
 Funktionen
 
 Benutzerverwaltung: Registrierung, Login und Verwaltung von Benutzerdaten.
+
 Authentifizierung: Benutzer können sich sicher anmelden, und die Anwendung unterstützt rollenbasierte Zugriffskontrolle.
+
 Passwortverschlüsselung: Sicheres Speichern von Passwörtern mittels BCrypt.
+
 Webschnittstelle: Einfache Webansichten für Login, Registrierung und Benutzerinteraktion.
 
 Installation
